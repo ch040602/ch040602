@@ -16,10 +16,6 @@ I maintain practical tools around agent workflows, markdown-based document autom
   `Active` | `agentic-rag` | `rag` | `retrieval`  
   Agentic RAG workflow for markdown corpora, query rewriting, sufficient-context checks, and grounded synthesis.
 
-- [Agentic-RAG-Skill](https://github.com/ch040602/Agentic-RAG-Skill)  
-  `Packaged skill` | `codex-skill` | `python` | `rag`  
-  Codex-compatible skill wrapper and Python scaffold for using the Agentic RAG workflow as a reusable agent capability.
-
 ### Review and Safety
 
 - [anti-ai-slop](https://github.com/ch040602/anti-ai-slop)  
