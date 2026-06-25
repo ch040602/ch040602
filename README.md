@@ -7,5 +7,5 @@
 - [anti-ai-slop](https://github.com/ch040602/anti-ai-slop)
 - [MDPR](https://github.com/ch040602/MdPr)
   - [mdpr-skill](https://github.com/ch040602/mdpr-skill)
-  - [mdpr-ppt](https://github.com/ch040602/mdpr-ppt) *(currently in progress)*
+  - [mdpr-ppt](https://github.com/ch040602/mdpr-ppt) *(현재 작업중)*
 - [skill-shield](https://github.com/ch040602/skill-shield)
