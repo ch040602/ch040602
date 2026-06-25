@@ -1,24 +1,51 @@
-# ch040602 GitHub Projects
+# ch040602
 
-Summary: Ongoing projects and skill-oriented tools I am currently maintaining.
+I maintain practical tools around agent workflows, markdown-based document automation, and reusable Codex-style skills.
 
-## Current Skill List
+## Focus
 
-- [agentic-rag](https://github.com/ch040602/agentic-rag)
-  - Current Agentic RAG project for markdown-based retrieval and generation workflows.
-- [Agentic-RAG-Skill](https://github.com/ch040602/Agentic-RAG-Skill)
-  - Skill wrapper package used to connect Agentic RAG in Codex-style environments.
-- [anti-ai-slop](https://github.com/ch040602/anti-ai-slop)
-  - A helper project for detecting generic/templated AI output patterns and improvement opportunities.
-- [skill-shield](https://github.com/ch040602/skill-shield)
-  - A safety and policy-first scanner for evaluating Skill packages.
-- [MDPR](https://github.com/ch040602/MdPr)
-  - Deterministic Markdown-to-editable-PPTX runtime with layout planning and rendering.
-  - [mdpr-skill](https://github.com/ch040602/mdpr-skill)
-    - Optional companion skill for review hints and QA pass support around MDPR.
-  - [mdpr-ppt](https://github.com/ch040602/mdpr-ppt) *(incomplete)*
-    - PowerPoint-side bridge that extracts selected-object candidates for MDPR.
+- Agentic retrieval workflows with grounded synthesis
+- Markdown-to-editable-PowerPoint pipelines
+- Review, QA, and safety tooling for skill packages
 
----
+## Current Skill Projects
 
-- **Completion status:** `mdpr-ppt` is currently **incomplete**.
+### Retrieval
+
+- [agentic-rag](https://github.com/ch040602/agentic-rag)  
+  `Active` | `agentic-rag` | `rag` | `retrieval`  
+  Agentic RAG workflow for markdown corpora, query rewriting, sufficient-context checks, and grounded synthesis.
+
+- [Agentic-RAG-Skill](https://github.com/ch040602/Agentic-RAG-Skill)  
+  `Packaged skill` | `codex-skill` | `python` | `rag`  
+  Codex-compatible skill wrapper and Python scaffold for using the Agentic RAG workflow as a reusable agent capability.
+
+### Review and Safety
+
+- [anti-ai-slop](https://github.com/ch040602/anti-ai-slop)  
+  `Active` | `review` | `output-quality` | `ai-slop`  
+  Review assistant for finding generic, template-like, or low-specificity AI output patterns across writing, UI, slides, reports, and code.
+
+- [skill-shield](https://github.com/ch040602/skill-shield)  
+  `Active` | `skill-security` | `static-analysis` | `policy`  
+  Static and semantic review tooling for inspecting agent skill packages, permissions, and policy risks.
+
+### Document Automation
+
+- [MDPR](https://github.com/ch040602/MdPr)  
+  `Active` | `markdown-to-pptx` | `powerpoint` | `automation`  
+  Deterministic Markdown-to-editable-PPTX runtime with layout planning, theme support, and visual validation.
+
+  - [mdpr-skill](https://github.com/ch040602/mdpr-skill)  
+    `Companion skill` | `codex-skill` | `mdpr` | `visual-qa`  
+    Optional Codex skill for review hints, visual QA, and checks around the MDPR rendering pipeline.
+
+  - [mdpr-ppt](https://github.com/ch040602/mdpr-ppt)  
+    `Incomplete` | `office-js` | `powerpoint-addin` | `mdpr`  
+    PowerPoint-side bridge for inspecting selected objects and turning them into MDPR component candidates.
+
+## Project Map
+
+MDPR is the main document automation runtime. `mdpr-skill` adds agent-side review support, while `mdpr-ppt` is still incomplete and focuses on the PowerPoint add-in bridge.
+
+Agentic RAG projects cover retrieval and grounded synthesis workflows. Review and safety tools support higher-quality skill packages and generated artifacts.
