@@ -9,6 +9,17 @@ I maintain practical tools around agent workflows, markdown-based document autom
 - Markdown-to-editable-PowerPoint pipelines
 - Review, QA, and safety tooling for skill packages
 
+## Start Here
+
+| Need | Project |
+|---|---|
+| Build a RAG workflow that checks whether context is sufficient before answering | [agentic-rag](https://github.com/ch040602/agentic-rag) |
+| Measure MCP and instruction context waste before slimming an agent setup | [Save-The-Token](https://github.com/ch040602/Save-The-Token) |
+| Browse source-backed prompt-injection cases for agents, tools, and skills | [agent-prompt-injection-zoo](https://github.com/ch040602/agent-prompt-injection-zoo) |
+| Review generic or low-specificity generated output with concrete fixes | [anti-ai-slop](https://github.com/ch040602/anti-ai-slop) |
+| Gate Agent Skills before installation, CI, or registry intake | [skill-vaccine](https://github.com/ch040602/skill-vaccine) |
+| Generate editable PowerPoint from Markdown with validation support | [MDPR](https://github.com/ch040602/MdPr) |
+
 ## Current Skill Projects
 
 ### Retrieval
@@ -66,3 +77,11 @@ I maintain practical tools around agent workflows, markdown-based document autom
 MDPR is the main document automation runtime. `mdpr-skill` adds agent-side review support, while `mdpr-ppt` is still incomplete and focuses on the PowerPoint add-in bridge.
 
 Agentic RAG projects cover retrieval and grounded synthesis workflows. Save-The-Token focuses on reducing agent-context waste around MCP tools without removing orchestration control. Review and safety tools support higher-quality skill packages and generated artifacts.
+
+## Documentation Links
+
+- [Agentic RAG behavior notes](https://github.com/ch040602/agentic-rag/tree/main/references)
+- [Save-The-Token benchmark](https://github.com/ch040602/Save-The-Token/blob/main/docs/benchmark.md)
+- [Agent Prompt Injection Zoo public summary](https://github.com/ch040602/agent-prompt-injection-zoo/blob/main/docs/public-summary.md)
+- [Anti-AI Slop review workflow](https://github.com/ch040602/anti-ai-slop/blob/main/protocols/review_workflow.md)
+- [Skill Vaccine rule catalog](https://github.com/ch040602/skill-vaccine/blob/main/docs/rules.md)
