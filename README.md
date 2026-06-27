@@ -17,11 +17,15 @@ I maintain practical tools around agent workflows, markdown-based document autom
   `Active` | `agentic-rag` | `rag` | `retrieval`  
   Agentic RAG workflow for markdown corpora, query rewriting, sufficient-context checks, and grounded synthesis.
 
+  <img src="./assets/teaser-agentic-rag.svg" alt="agentic-rag teaser: grounded retrieval workflows for agentic research" width="760">
+
 ### Agent Runtime Efficiency
 
 - [Save-The-Token](https://github.com/ch040602/Save-The-Token)  
   `Active` | `codex` | `claude` | `mcp` | `token-budget`  
   Local-first MCP token budget doctor for scanning agent config, probing tool schema surface area, and generating slimmer enabled-tool guidance.
+
+  <img src="./assets/teaser-save-the-token.svg" alt="Save-The-Token teaser: measure and cut agent context waste" width="760">
 
 ### Review and Safety
 
@@ -29,15 +33,19 @@ I maintain practical tools around agent workflows, markdown-based document autom
   `Active` | `agent-security` | `prompt-injection` | `dataset`  
   Source-backed archive of 250 normalized agent prompt-injection incident and research records, with 300 sources, sanitized case pages, patterns, schemas, exports, and freshness checks.
 
-  <img src="https://raw.githubusercontent.com/ch040602/agent-prompt-injection-zoo/main/docs/assets/comparison-teaser.svg" alt="Agent Prompt Injection Zoo comparison teaser" width="760">
+  <img src="./assets/teaser-agent-prompt-injection-zoo.svg" alt="Agent Prompt Injection Zoo teaser: 250 source-backed agent prompt-injection records" width="760">
 
 - [anti-ai-slop](https://github.com/ch040602/anti-ai-slop)  
   `Active` | `review` | `output-quality` | `ai-slop`  
   Review assistant for finding generic, template-like, or low-specificity AI output patterns across writing, UI, slides, reports, and code.
 
-- [skill-shield](https://github.com/ch040602/skill-shield)  
+  <img src="./assets/teaser-anti-ai-slop.svg" alt="anti-ai-slop teaser: review generic AI output before it ships" width="760">
+
+- [skill-vaccine](https://github.com/ch040602/skill-vaccine)  
   `Active` | `skill-security` | `static-analysis` | `policy`  
-  Static and semantic review tooling for inspecting agent skill packages, permissions, and policy risks.
+  Static and semantic review tooling for inspecting agent skill packages, permissions, prompt-injection risks, policy boundaries, and registry readiness.
+
+  <img src="./assets/teaser-skill-vaccine.svg" alt="skill-vaccine teaser: scan-gated safety for Agent Skills" width="760">
 
 ### Document Automation
 

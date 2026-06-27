@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330" role="img" aria-labelledby="title desc">
+  <title id="title">Agent Prompt Injection Zoo project teaser</title>
+  <desc id="desc">250 source-backed agent prompt-injection records. Normalized incidents and research records with sanitized pages, patterns, schemas, exports, and freshness checks.</desc>
+  <rect width="760" height="330" rx="12" fill="#f7f7f4"/>
+  <rect x="24" y="24" width="712" height="282" rx="10" fill="#ffffff" stroke="#d8d7cf"/>
+  <rect x="24" y="24" width="712" height="10" rx="5" fill="#b91c1c"/>
+  <text x="42" y="68" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#b91c1c">Active / agent-security  prompt-injection  dataset</text>
+  <text x="42" y="108" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="750" fill="#1f2428">Agent Prompt Injection Zoo</text>
+  <text x="42" y="144" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1f2428">250 source-backed agent prompt-injection records</text>
+  <foreignObject x="42" y="158" width="660" height="56">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Segoe UI,Arial,sans-serif;font-size:15px;line-height:1.35;color:#5c646b;">Normalized incidents and research records with sanitized pages, patterns, schemas, exports, and freshness checks.</div>
+  </foreignObject>
+  <rect x="42" y="230" width="160" height="56" rx="8" fill="#ffffff" stroke="#d8d7cf"/><text x="56" y="252" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#5c646b">Records</text><text x="56" y="276" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2428">250</text><rect x="227" y="230" width="160" height="56" rx="8" fill="#ffffff" stroke="#d8d7cf"/><text x="241" y="252" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#5c646b">Sources</text><text x="241" y="276" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2428">300</text><rect x="412" y="230" width="160" height="56" rx="8" fill="#ffffff" stroke="#d8d7cf"/><text x="426" y="252" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#5c646b">Pages</text><text x="426" y="276" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2428">81</text>
+  <text x="42" y="308" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#5c646b">MDPR-skill reviewed profile teaser</text>
+</svg>

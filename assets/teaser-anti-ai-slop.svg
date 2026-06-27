@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330" role="img" aria-labelledby="title desc">
+  <title id="title">anti-ai-slop project teaser</title>
+  <desc id="desc">Review generic AI output before it ships. Detects template-like, low-specificity, and generic-output patterns across writing, UI, slides, reports, and code.</desc>
+  <rect width="760" height="330" rx="12" fill="#f7f7f4"/>
+  <rect x="24" y="24" width="712" height="282" rx="10" fill="#ffffff" stroke="#d8d7cf"/>
+  <rect x="24" y="24" width="712" height="10" rx="5" fill="#b45309"/>
+  <text x="42" y="68" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#b45309">Active / review  output quality  writing  ui</text>
+  <text x="42" y="108" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="750" fill="#1f2428">anti-ai-slop</text>
+  <text x="42" y="144" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1f2428">Review generic AI output before it ships</text>
+  <foreignObject x="42" y="158" width="660" height="56">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Segoe UI,Arial,sans-serif;font-size:15px;line-height:1.35;color:#5c646b;">Detects template-like, low-specificity, and generic-output patterns across writing, UI, slides, reports, and code.</div>
+  </foreignObject>
+  <rect x="42" y="230" width="160" height="56" rx="8" fill="#ffffff" stroke="#d8d7cf"/><text x="56" y="252" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#5c646b">Surface</text><text x="56" y="276" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2428">writing/UI/code</text><rect x="227" y="230" width="160" height="56" rx="8" fill="#ffffff" stroke="#d8d7cf"/><text x="241" y="252" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#5c646b">Mode</text><text x="241" y="276" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2428">review assistant</text><rect x="412" y="230" width="160" height="56" rx="8" fill="#ffffff" stroke="#d8d7cf"/><text x="426" y="252" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#5c646b">Goal</text><text x="426" y="276" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2428">specific output</text>
+  <text x="42" y="308" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#5c646b">MDPR-skill reviewed profile teaser</text>
+</svg>

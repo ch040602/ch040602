@@ -1,0 +1,37 @@
+[
+  {
+    "id": "agentic-rag",
+    "title": "agentic-rag",
+    "url": "https://github.com/ch040602/agentic-rag",
+    "type": "github_repo",
+    "value": "Grounded retrieval workflows for agentic research"
+  },
+  {
+    "id": "save-the-token",
+    "title": "Save-The-Token",
+    "url": "https://github.com/ch040602/Save-The-Token",
+    "type": "github_repo",
+    "value": "Measure and cut agent context waste"
+  },
+  {
+    "id": "agent-prompt-injection-zoo",
+    "title": "Agent Prompt Injection Zoo",
+    "url": "https://github.com/ch040602/agent-prompt-injection-zoo",
+    "type": "github_repo",
+    "value": "250 source-backed agent prompt-injection records"
+  },
+  {
+    "id": "anti-ai-slop",
+    "title": "anti-ai-slop",
+    "url": "https://github.com/ch040602/anti-ai-slop",
+    "type": "github_repo",
+    "value": "Review generic AI output before it ships"
+  },
+  {
+    "id": "skill-vaccine",
+    "title": "skill-vaccine",
+    "url": "https://github.com/ch040602/skill-vaccine",
+    "type": "github_repo",
+    "value": "Scan-gated safety for Agent Skills"
+  }
+]

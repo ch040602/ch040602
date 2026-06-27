@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "mdpr-narrative-review-v1",
+  "generatedBy": "mdpr-skill",
+  "suggestions": [
+    {
+      "type": "NARRATIVE_CLAIM_TITLE_WEAK",
+      "kind": "claim-title",
+      "generatedBy": "mdpr-skill",
+      "evidence": {
+        "sourcePath": "C:\\Users\\hcslab_523\\Documents\\ch040602\\teasers\\mdpr\\agentic-rag.md",
+        "markdownHeading": "Project signals"
+      },
+      "suggestion": {
+        "action": "rewrite-title-as-claim",
+        "text": "Rewrite \"Project signals\" as a claim title that states the takeaway before the evidence."
+      }
+    },
+    {
+      "type": "NARRATIVE_SECTION_FLOW_GAP",
+      "kind": "section-flow",
+      "generatedBy": "mdpr-skill",
+      "evidence": {
+        "sourcePath": "C:\\Users\\hcslab_523\\Documents\\ch040602\\teasers\\mdpr\\agentic-rag.md",
+        "markdownHeading": "Grounded retrieval workflows for agentic research -> Project signals -> README role"
+      },
+      "suggestion": {
+        "action": "add-section-transition",
+        "text": "Add a short transition or implication section so the deck explains why the evidence leads to the recommended action."
+      }
+    }
+  ]
+}
