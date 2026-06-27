@@ -25,6 +25,12 @@ I maintain practical tools around agent workflows, markdown-based document autom
 
 ### Review and Safety
 
+- [agent-prompt-injection-zoo](https://github.com/ch040602/agent-prompt-injection-zoo)  
+  `Active` | `agent-security` | `prompt-injection` | `dataset`  
+  Source-backed archive of 250 normalized agent prompt-injection incident and research records, with 300 sources, sanitized case pages, patterns, schemas, exports, and freshness checks.
+
+  <img src="https://raw.githubusercontent.com/ch040602/agent-prompt-injection-zoo/main/docs/assets/comparison-teaser.svg" alt="Agent Prompt Injection Zoo comparison teaser" width="760">
+
 - [anti-ai-slop](https://github.com/ch040602/anti-ai-slop)  
   `Active` | `review` | `output-quality` | `ai-slop`  
   Review assistant for finding generic, template-like, or low-specificity AI output patterns across writing, UI, slides, reports, and code.
