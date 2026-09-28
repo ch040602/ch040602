@@ -11,7 +11,6 @@
 | 구분 | 기관·전공·소속 | 기간 |
 | --- | --- | --- |
 | 석사과정 | 중앙대학교 컴퓨터공학과 · HCSLab | 2025–현재 |
-| 석사과정 연구원 | Human-Centered Systems Laboratory (HCSLab) | 2025–현재 |
 | 학부 연구생 | Human-Centered Systems Laboratory (HCSLab) | 2024–2025 |
 | 학사 | 중앙대학교 컴퓨터공학과 | 2021–2025 |
 
