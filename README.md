@@ -2,21 +2,18 @@
 
 중앙대학교 컴퓨터공학과 석사과정 · Human-Centered Systems Laboratory (HCSLab)
 
+[![HCSLab Website](https://img.shields.io/badge/HCSLab-Website-184A90?style=flat-square)](https://hcslab.cau.ac.kr/)
+
 - 관심 분야: HCI · 인터랙티브 시스템 · 모바일 센싱 · 신호 처리 · 에이전트 개발 도구
 
-## 학력
+## 학력 및 연구 경력
 
-| 과정 | 기관·전공 | 기간 |
+| 구분 | 기관·전공·소속 | 기간 |
 | --- | --- | --- |
 | 석사과정 | 중앙대학교 컴퓨터공학과 · HCSLab | 2025–현재 |
+| 석사과정 연구원 | Human-Centered Systems Laboratory (HCSLab) | 2025–현재 |
+| 학부 연구생 | Human-Centered Systems Laboratory (HCSLab) | 2024–2025 |
 | 학사 | 중앙대학교 컴퓨터공학과 | 2021–2025 |
-
-## 연구 경력
-
-| 소속 | 역할 | 기간 |
-| --- | --- | --- |
-| Human-Centered Systems Laboratory (HCSLab) | 학부 연구생 | 2024–2025 |
-| Human-Centered Systems Laboratory (HCSLab) | 석사과정 연구원 | 2025–현재 |
 
 ## 연구 분야
 
