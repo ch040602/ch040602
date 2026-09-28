@@ -22,17 +22,17 @@
 
 ## 논문
 
-| 논문 | 게재 정보 | 저자 | 역할·핵심 내용 |
+| 논문 | 게재 정보 | 저자 | 핵심 내용 |
 | --- | --- | --- | --- |
-| [SANFC: Enabling Secure Token Exchange via Mobile Acoustic Near-Field Communication Channels](https://doi.org/10.1109/TCE.2026.3733710) | IEEE Transactions on Consumer Electronics (TCE), 2026 · 게재 승인 | Seunghun Chae, Seohyeon Park, Junhyub Lee, Jeongwoo Heo, Hyosu Kim | 제1저자 · 스마트폰 스테레오 스피커·마이크 기반 통신 · 신호 처리·Android 시제품 · 실제 환경 성능·사용성 평가 |
-| [COCOTree: A Dataset and Benchmark for Open Tree-Structured Visual Decomposition](https://arxiv.org/abs/2605.22068) · [코드](https://github.com/melonkick3090/COCOTree) | NeurIPS 2026 | Junhyub Lee, Seunghun Chae, Hyosu Kim | 공저 · 계층형 시각 분해 데이터셋·벤치마크 · 자동 어노테이션·평가 설계 · 2.1만+ 이미지·180만 개 구조 노드 |
-| [PoBiTag: Toward Unobtrusive and Customizable Tag-Based Interaction With Optical Polarization and Birefringence](https://doi.org/10.1109/ACCESS.2025.3606941) | IEEE Access, 2025 | Seohyeon Park, Seunghun Chae, Jaemin Choi, Hyosu Kim | 공저 · 편광·복굴절 기반 광학 태그 인터랙션·모바일 인식 시제품 · 평균 인식 정확도 96.5% |
+| [SANFC: Enabling Secure Token Exchange via Mobile Acoustic Near-Field Communication Channels](https://doi.org/10.1109/TCE.2026.3733710) | IEEE Transactions on Consumer Electronics (TCE), 2026 · 게재 승인 | **Seunghun Chae**, Seohyeon Park, Junhyub Lee, Jeongwoo Heo, Hyosu Kim | 스마트폰 스테레오 스피커·마이크 기반 통신 · 신호 처리·Android 시제품 · 실제 환경 성능·사용성 평가 |
+| [COCOTree: A Dataset and Benchmark for Open Tree-Structured Visual Decomposition](https://arxiv.org/abs/2605.22068) · [코드](https://github.com/melonkick3090/COCOTree) | NeurIPS 2026 | Junhyub Lee, **Seunghun Chae**, Hyosu Kim | 계층형 시각 분해 데이터셋·벤치마크 · 자동 어노테이션·평가 설계 · 2.1만+ 이미지·180만 개 구조 노드 |
+| [PoBiTag: Toward Unobtrusive and Customizable Tag-Based Interaction With Optical Polarization and Birefringence](https://doi.org/10.1109/ACCESS.2025.3606941) | IEEE Access, 2025 | Seohyeon Park, **Seunghun Chae**, Jaemin Choi, Hyosu Kim | 편광·복굴절 기반 광학 태그 인터랙션·모바일 인식 시제품 · 평균 인식 정확도 96.5% |
 
 ## 비공개 논문 (심사 중)
 
-| 논문 | 역할·연구 내용 |
+| 논문 | 연구 내용 |
 | --- | --- |
-| 비공개 논문 · 심사 중 | 제1저자 · HCI 기반 물리 입력 확장 · 인터랙션 설계 · 사용자 중심 평가 |
+| 비공개 논문 · 심사 중 | HCI 기반 물리 입력 확장 · 인터랙션 설계 · 사용자 중심 평가 |
 
 ## 수상·장학
 
