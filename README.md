@@ -1,6 +1,10 @@
 # Seunghun Chae
 
-중앙대학교 컴퓨터공학과 석사과정 · Human-Centered Systems Laboratory (HCSLab)
+중앙대학교 컴퓨터공학과 석사과정에서 HCI와 모바일 센싱, 인터랙티브 시스템을 연구하고 있습니다.
+IEEE TCE에 게재 승인된 SANFC 논문의 제1저자이며, NeurIPS 2026과 IEEE Access 논문에 공동저자로 참여했습니다.
+주요 캡스톤 프로젝트에서는 음성 인식 모델 학습과 AWS Lambda 기반 서버리스 백엔드 구축을 담당했습니다.
+사이드 프로젝트로는 Markdown 문서 변환 도구와 AI 에이전트의 작업·검토 과정을 지원하는 업무 도구를 개발 및 사용하고 있습니다.
+2027년 전문연구요원 신규편입을 통한 연구개발 직무 입사를 희망합니다.
 
 [![HCSLab Website](https://img.shields.io/badge/HCSLab-Website-184A90?style=flat-square)](https://hcslab.cau.ac.kr/)
 
