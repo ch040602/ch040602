@@ -8,6 +8,8 @@ IEEE TCE에 게재 승인된 SANFC 논문의 제1저자이며, NeurIPS 2026과 I
 
 [![HCSLab Website](https://img.shields.io/badge/HCSLab-Website-184A90?style=flat-square)](https://hcslab.cau.ac.kr/)
 
+- [포트폴리오 PDF](assets/02_채승훈_포트폴리오.pdf) — 주요 논문과 프로젝트, 담당 역할 및 결과
+
 - 관심 분야: HCI · 인터랙티브 시스템 · 모바일 센싱 · 신호 처리 · 에이전트 개발 도구
 
 ## 학력 및 연구 경력
