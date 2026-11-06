@@ -32,9 +32,9 @@ IEEE TCE에 게재 승인된 SANFC 논문의 제1저자이며, NeurIPS 2026과 I
 
 | 논문 | 게재 정보 | 저자 | 핵심 내용 |
 | --- | --- | --- | --- |
-| [SANFC: Enabling Secure Token Exchange via Mobile Acoustic Near-Field Communication Channels](https://doi.org/10.1109/TCE.2026.3733710) | IEEE Transactions on Consumer Electronics (TCE), 2026 · 게재 승인 | **Seunghun Chae**, Seohyeon Park, Junhyub Lee, Jeongwoo Heo, Hyosu Kim | 스마트폰 스테레오 스피커·마이크 기반 통신 · 신호 처리·Android 시제품 · 실제 환경 성능·사용성 평가 |
-| [COCOTree: A Dataset and Benchmark for Open Tree-Structured Visual Decomposition](https://arxiv.org/abs/2605.22068) · [코드](https://github.com/melonkick3090/COCOTree) | NeurIPS 2026 | Junhyub Lee, **Seunghun Chae**, Hyosu Kim | 계층형 시각 분해 데이터셋·벤치마크 · 자동 어노테이션·평가 설계 · 2.1만+ 이미지·180만 개 구조 노드 |
-| [PoBiTag: Toward Unobtrusive and Customizable Tag-Based Interaction With Optical Polarization and Birefringence](https://doi.org/10.1109/ACCESS.2025.3606941) | IEEE Access, 2025 | Seohyeon Park, **Seunghun Chae**, Jaemin Choi, Hyosu Kim | 편광·복굴절 기반 광학 태그 인터랙션·모바일 인식 시제품 · 평균 인식 정확도 96.5% |
+| [SANFC: Enabling Secure Token Exchange via Mobile Acoustic Near-Field Communication Channels](assets/papers/SANFC.pdf) | IEEE Transactions on Consumer Electronics (TCE), 2026 · 게재 승인 | **Seunghun Chae**, Seohyeon Park, Junhyub Lee, Jeongwoo Heo, Hyosu Kim | 스마트폰 스테레오 스피커·마이크 기반 통신 · 신호 처리·Android 시제품 · 실제 환경 성능·사용성 평가 |
+| [COCOTree: A Dataset and Benchmark for Open Tree-Structured Visual Decomposition](assets/papers/COCOTree.pdf) · [코드](https://github.com/melonkick3090/COCOTree) | NeurIPS 2026 | Junhyub Lee, **Seunghun Chae**, Hyosu Kim | 계층형 시각 분해 데이터셋·벤치마크 · 자동 어노테이션·평가 설계 · 2.1만+ 이미지·180만 개 구조 노드 |
+| [PoBiTag: Toward Unobtrusive and Customizable Tag-Based Interaction With Optical Polarization and Birefringence](assets/papers/PoBiTag.pdf) | IEEE Access, 2025 | Seohyeon Park, **Seunghun Chae**, Jaemin Choi, Hyosu Kim | 편광·복굴절 기반 광학 태그 인터랙션·모바일 인식 시제품 · 평균 인식 정확도 96.5% |
 
 ## 비공개 논문 (심사 중)
 
